@@ -1,2 +1,3 @@
 # rehantech-demo
-This is my first repository using Git.
+This is my first  Git repository.
+Author - REHAN AHMED
